@@ -54,4 +54,4 @@ The ABC system can be further enhanced through:
 ### Setup and Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/ABC-System.git
+   [git clone https://github.com/your-username/ABC-System.git](https://github.com/IAS-Project1/ABC/tree/main)
